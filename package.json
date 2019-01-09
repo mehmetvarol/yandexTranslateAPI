@@ -1,5 +1,5 @@
 {
-  "name": "yandexTranslateAPI",
+  "name": "yandex-translate-api",
   "description": "Yandex API ile Vue.js kullanarak Translate Yapımı",
   "version": "1.0.0",
   "author": "Mehmet VAROL",
